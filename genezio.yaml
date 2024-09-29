@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: npm run build
+        deploy: npm install
+    subdomain: SOCIAL-MEDIA-VIDEO-DOWNLOAD---MERN
+name: SOCIAL-MEDIA-VIDEO-DOWNLOAD---MERN
+region: eu-central-1
+yamlVersion: 2
